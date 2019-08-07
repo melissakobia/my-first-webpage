@@ -1,0 +1,12 @@
+h1{
+  font: bold;
+  color: crimson;
+  font-family: monospace;
+}
+h2{
+  font-stretch: inherit;
+}
+p {
+  font: outline;
+  font-size: 25px;
+}

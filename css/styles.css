@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: pink;
+  font-style: italic;
+  text-align: justify;
+}
+p {
+  font-family: serif;
+  font-size: 30px;
+  font-style: inherit;
+}
+ul {
+  line-height: 40px;
+}
+ol {
+  line-height: 40px;
+}
+body{
+  background-color: beige;
+}
+strong {
+  font-style: italic;
+}
+em {
+  font-style: oblique;
+}
